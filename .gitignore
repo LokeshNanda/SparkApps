@@ -1,2 +1,6 @@
-*.class
-*.log
+.idea/
+*.iml
+*.xml
+output/
+project/
+target/
